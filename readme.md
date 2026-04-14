@@ -6,7 +6,7 @@
 
   ---
 
-  ## 🎥 APERÇU
+  ## 🎥
   
   <img src="video.gif" width="100%" alt="Démo Fexini">
 
