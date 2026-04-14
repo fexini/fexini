@@ -1,24 +1,43 @@
-# 💻 [fexini@github]:~/projects/streaming$ _
+<div align="center">
 
-<p align="center">
-  <img src="[https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge](https://img.shields.io/badge/Status-Online-brightgreen?style=for-the-badge)" alt="Status">
-  <img src="[https://img.shields.io/badge/Ads-Disabled-red?style=for-the-badge](https://img.shields.io/badge/Ads-Disabled-red?style=for-the-badge)" alt="Ads">
-  <img src="[https://img.shields.io/badge/License-Free-blue?style=for-the-badge](https://img.shields.io/badge/License-Free-blue?style=for-the-badge)" alt="License">
-</p>
+  # 🖥️ fexini::streaming_platform
 
----
+  <p><b>Rendre l'audiovisuel gratuit et disponible à tous.</b></p>
+  <p>Une plateforme de streaming 🚀 sans publicités, fluide et accessible.</p>
 
-### 🟢 `fexini --version 1.0.0`
+  ---
 
-> **Rendre l'audiovisuel gratuit et disponible à tous.** > Fexini est une plateforme de streaming sans publicités, fluide et accessible.
+  ## 🎥 DEMO
 
----
+  <video src="video.mp4" width="100%" controls autoplay loop muted>
+    Votre navigateur ne prend pas en charge la vidéo.
+  </video>
 
-### 🛠️ `ls -l --tech-stack`
+  ---
 
-```bash
-total 4
--rw-r--r--  1 fexini dev   HTML5  # Structure & Sémantique
--rw-r--r--  1 fexini dev   CSS3   # Design moderne & Responsive
--rw-r--r--  1 fexini dev   JS     # Interactivité du lecteur
--rw-r--r--  1 fexini dev   PYTHON # Backend & Gestion des flux
+  ## 🛠️ Stack Technique
+
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  ---
+
+  ## 📱 Rejoignez la communauté
+
+  <a href="https://discord.gg/fexini">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord">
+  </a>
+  <a href="https://instagram.com/fexini_">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://t.me/fexini">
+    <img src="https://img.shields.io/badge/Telegram-26A69A?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
+  </a>
+
+  ---
+
+  ![Stats de fexini](https://github-readme-stats.vercel.app/api?username=fexini&show_icons=true&theme=terminal&hide_border=true)
+
+</div>
